@@ -7,7 +7,7 @@ Please read this manual for more information:
 [Hermawan Monitor Manual](https://github.com/ming-hermawan/hermawan-monitora-manual/blob/master/hemawan-monitora-manual.pdf)
 
 Check other parts of Hermawan-Monitora applications:
-* [Hermawan Monitor Bg-Server](https://github.com/ming-hermawan/hermawan-monitora-bgserver)
+* [Hermawan Monitor Background-Server](https://github.com/ming-hermawan/hermawan-monitora-bgserver)
 * [Hermawan Monitor Web-Admin](https://github.com/ming-hermawan/hermawan-monitora-webadmin)
 
 ## License
